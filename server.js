@@ -11,7 +11,7 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/contact', (req, res) => {
-    res.send('<h1>Contact page is awesome</h1><p>email: zeidan4mo@gmail.com</p>');
+    res.send('<h1>Contact page sucks</h1><p>email: zeidan4mo@gmail.com</p>');
 });
 
 app.listen(port, () => {
