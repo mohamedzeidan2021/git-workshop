@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/about', (req, res) => {
-    res.send('<h1>About page</h1><p>Its me!</p>');
+    res.send('<h1>About page FUCKING SUSKS!!</h1><p>Its me!</p>');
 });
 
 app.get('/contact', (req, res) => {
